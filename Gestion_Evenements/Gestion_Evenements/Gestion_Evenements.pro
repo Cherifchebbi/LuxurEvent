@@ -17,11 +17,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     connexion.cpp \
+    event.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     connexion.h \
+    event.h \
     mainwindow.h
 
 FORMS += \
